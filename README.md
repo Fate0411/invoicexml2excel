@@ -1,0 +1,2 @@
+# invoicexml2excel
+JLU发票出入库，使用python将xml发票转换为excel文件，进而拷贝到给出的申购物资上传模板，快速进行出入库
